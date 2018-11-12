@@ -1,0 +1,9 @@
+﻿  Reciever.cpp
+c:\users\mywinpc\desktop\github\matlab2c_udp\matlab2c++udp\reciever.cpp(21): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+c:\users\mywinpc\desktop\github\matlab2c_udp\matlab2c++udp\reciever.cpp(38): warning C4293: '<<': shift count negative or too big, undefined behavior
+c:\users\mywinpc\desktop\github\matlab2c_udp\matlab2c++udp\reciever.cpp(38): warning C4477: 'printf' : format string '%F' requires an argument of type 'double', but variadic argument 1 has type 'int'
+c:\users\mywinpc\desktop\github\matlab2c_udp\matlab2c++udp\reciever.cpp(38): warning C4477: 'printf' : format string '%F' requires an argument of type 'double', but variadic argument 2 has type 'int'
+c:\users\mywinpc\desktop\github\matlab2c_udp\matlab2c++udp\reciever.cpp(38): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\mywinpc\desktop\github\matlab2c_udp\matlab2c++udp\reciever.cpp(38): note: placeholders and their parameters expect 8 variadic arguments, but 2 were provided
+  c:\users\mywinpc\desktop\github\matlab2c_udp\matlab2c++udp\reciever.cpp(38): note: the missing variadic argument 3 is required by format string '%F'
+  Matlab2C++UDP.vcxproj -> C:\Users\MywinPC\Desktop\GitHub\Matlab2C_UDP\x64\Debug\Matlab2C++UDP.exe
